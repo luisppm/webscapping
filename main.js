@@ -32,7 +32,6 @@ const main = async () => {
 
         console.log({ nome, valor, codigo, detalhesImovel });
 
-
     }
     await browser.close();
 
