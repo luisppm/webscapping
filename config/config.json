@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "u491331866_node",
+    "password": "cWcLQe6XnNwFn5MT",
+    "database": "u491331866_node",
+    "host": "185.201.11.170",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "u491331866_node",
+    "password": "cWcLQe6XnNwFn5MT",
+    "database": "u491331866_node",
+    "host": "185.201.11.170",
+    "dialect": "mysql"
+  }
+}
