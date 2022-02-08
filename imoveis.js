@@ -10,16 +10,15 @@ let detalhesImovel = [];
 const main = async () => {
     console.log('rodando main');
 
-    /*
     db.ImoveisOLX.create({
-        nome: 'nome de teste',
-        valor: 2000,
+        nome: 'nome de teste 2',
+        valor: 4000,
         codigoBruto: '1234f56sdf',
         codigo: '123123',
         urlImovel: 'www.uol.com.br',
         detalhes: 'teste detalhes'
-    })*/
-    
+    })
+    /*
     const browser = await puppeteer.launch({
         args: ['--no-sandbox'],
         headless: true,
@@ -50,7 +49,7 @@ const main = async () => {
 
     }
     await browser.close();
-    
+    */
 
 };
 module.exports = main;
